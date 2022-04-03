@@ -1,6 +1,8 @@
 ### We create a bunch of helpful functions throughout the course.
 ### Storing them here so they're easily accessible.
 
+## CREDIT TO MRDBOUKE, from the ZeroToMastery Tensorflow Course.
+
 import tensorflow as tf
 
 # Create a function to import an image and resize it to be able to be used with our model
